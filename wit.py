@@ -1,4 +1,3 @@
-# Upload 177
 import datetime
 import distutils.dir_util
 import os
